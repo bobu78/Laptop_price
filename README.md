@@ -1,10 +1,12 @@
 # Laptop_price
 Prediction of laptop price 
+
+![logo](https://github.com/bobu78/Laptop_price/blob/main/Vicky.jpg)
 <h1 align="center">Hi 👋, I'm Vicky</h1>
 <h3 align="center">Data Scientist from India</h3> 
 
 
-<img align = "right" alt= "coding" width= "400" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2951104-Data-Science-Philanthropy&psig=AOvVaw2gVPamCXQ38hA7XHlW1IC_&ust=1713266298537000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC4-cSMxIUDFQAAAAAdAAAAABAK" >
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2951104-Data-Science-Philanthropy&psig=AOvVaw2gVPamCXQ38hA7XHlW1IC_&ust=1713266298537000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC4-cSMxIUDFQAAAAAdAAAAABAK">
 
 - 🔭 I’m currently working on **Game**
 
